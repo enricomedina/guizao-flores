@@ -1,0 +1,27 @@
+.containerPage {
+  margin-top: 60px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.login-box {
+  border-radius: 20px;
+  padding: 40px;
+  width: 400px;
+  text-align: center;
+}
+
+.h2-tchobaz {
+  margin-top: 0;
+}
+
+.biene {
+  width: 100%;
+  margin-bottom: 30px;
+  padding: 10px;
+  border-radius: 3%;
+  box-shadow: 3px 3px 3px 3px #f7f7f7;
+  outline: none;
+}
